@@ -1,0 +1,21 @@
+﻿@model AV8.Models.ClientMovie
+@{
+    ViewBag.Title = "InsertNewClient";
+}
+
+<h2>Insert new client for the movie: @Model.Movie.Title</h2>
+
+@using (Html.BeginForm("InsertClientMovie", "Movies"))
+{
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.ClientId, new SelectList(Model.Clients, "Id", "Name"),
+            new { @class = "form-control" })
+
+        @Html.HiddenFor(m => m.MovieId)
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Add client to movie</button>
+    </div>
+}
+

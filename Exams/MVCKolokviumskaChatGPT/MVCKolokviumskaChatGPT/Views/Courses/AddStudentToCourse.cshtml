@@ -1,0 +1,16 @@
+﻿@model MVCKolokviumskaChatGPT.Models.StudentCourse
+@{
+    ViewBag.Title = "AddStudentToCourse";
+}
+
+<h2>Add student to course: @ViewBag.CourseName</h2>
+
+@using (Html.BeginForm("AddStudentToCourse", "Courses"))
+{
+    <div class="form-group">
+        @Html.Label("Students")
+        @Html.DropDownListFor(m => m.StudentId, new SelectList(Model.Students, "Id", "Name"), new { @class = "form-control" })
+        @Html.HiddenFor(m => m.CourseId)
+        <button type="submit" class="btn btn-primary">Add</button>
+    </div>
+}

@@ -1,0 +1,17 @@
+﻿@model MVCBooksChatGPT.Models.MemberBook
+@{
+    ViewBag.Title = "AddMemberToBook";
+}
+
+<h2>Add member to book: @ViewBag.BookName</h2>
+
+@using (Html.BeginForm("AddMemberToBook", "Books"))
+{
+    <div class="form-group">
+        @Html.HiddenFor(m => m.BookId)
+
+        @Html.Label("Members")
+        @Html.DropDownListFor(m => m.MemberId, new SelectList(Model.Members, "MemberId", "Name"), new { @class = "form-control" })
+        <button type="submit" class="btn btn-primary">Add</button>
+    </div>
+}

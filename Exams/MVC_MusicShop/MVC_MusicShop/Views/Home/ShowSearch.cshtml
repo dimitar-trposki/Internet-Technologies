@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "ShowSearch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ShowSearch</h2>
+
+@*@using (Html.BeginForm("Search", "Store", FormMethod.Get)) {
+        <input type="text" name="q"/>
+        <input type="submit" name="Search"/>
+    }*@
+
+@{Html.BeginForm("Search", "Store", FormMethod.Get); } 
+<input type="text" name="q" />
+<input type="submit" name="Search" />
+@{ Html.EndForm();}
+
+@Html.TextArea("text", "Hello </br> world")
+<br />
+@Html.Label("text", "Hello </br> world")

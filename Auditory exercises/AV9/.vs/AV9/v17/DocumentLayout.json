@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\av9\\av9\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|solutionrelative:av9\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\av9\\av9\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|solutionrelative:av9\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\av9\\av9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|solutionrelative:av9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\av9\\av9\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|solutionrelative:av9\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\av9\\av9\\models\\movierentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0C4530-1E34-4FB2-8BA0-356B5AB26083}|AV9\\AV9.csproj|solutionrelative:av9\\models\\movierentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "AV9\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "AV9\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:49:36.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AV9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AV9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:49:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "AV9\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "AV9\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:40:01.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "AV9\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "AV9\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:04:11.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRentals.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Models\\MovieRentals.cs",
+              "RelativeDocumentMoniker": "AV9\\Models\\MovieRentals.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\AV9\\AV9\\Models\\MovieRentals.cs",
+              "RelativeToolTip": "AV9\\Models\\MovieRentals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:59:38.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\lv1remastered\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|solutionrelative:lv1remastered\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\lv1remastered\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|solutionrelative:lv1remastered\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\lv1remastered\\lv1remastered\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|solutionrelative:lv1remastered\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\lv1remastered\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|solutionrelative:lv1remastered\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\lv1remastered\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|solutionrelative:lv1remastered\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\lv1remastered\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB4AF94-CA1C-40D1-9752-86A544C7A003}|LV1Remastered\\LV1Remastered.csproj|solutionrelative:lv1remastered\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "LV1Remastered\\Najava.aspx.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Najava.aspx.cs",
+              "RelativeToolTip": "LV1Remastered\\Najava.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:08:00.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UspeshnoGlasanje.aspx.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\UspeshnoGlasanje.aspx.cs",
+              "RelativeDocumentMoniker": "LV1Remastered\\UspeshnoGlasanje.aspx.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\UspeshnoGlasanje.aspx.cs",
+              "RelativeToolTip": "LV1Remastered\\UspeshnoGlasanje.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T23:07:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "LV1Remastered\\UspeshnoGlasanje.aspx",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "LV1Remastered\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T23:07:36.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "LV1Remastered\\Glasaj.aspx.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Glasaj.aspx.cs",
+              "RelativeToolTip": "LV1Remastered\\Glasaj.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:52:21.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "LV1Remastered\\Glasaj.aspx",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Glasaj.aspx*",
+              "RelativeToolTip": "LV1Remastered\\Glasaj.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T20:52:18.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Najava.aspx",
+              "RelativeDocumentMoniker": "LV1Remastered\\Najava.aspx",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\LV1Remastered\\LV1Remastered\\Najava.aspx",
+              "RelativeToolTip": "LV1Remastered\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-31T20:40:05.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

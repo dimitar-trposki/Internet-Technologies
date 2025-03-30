@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\mvc_musicshop\\mvc_musicshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\views\\home\\showsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\views\\home\\showsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\views\\home\\listartistalbums.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\views\\home\\listartistalbums.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\viewmodels\\artistalbumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\viewmodels\\artistalbumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\mvc_musicshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E2487A-DC75-48A6-9228-FA9CD5A9432D}|MVC_MusicShop\\MVC_MusicStore.csproj|solutionrelative:mvc_musicshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Views\\Home\\Search.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "MVC_MusicShop\\Views\\Home\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T22:00:08.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowSearch.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\ShowSearch.cshtml",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Views\\Home\\ShowSearch.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\ShowSearch.cshtml",
+              "RelativeToolTip": "MVC_MusicShop\\Views\\Home\\ShowSearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T21:48:04.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListArtistAlbums.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\ListArtistAlbums.cshtml",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Views\\Home\\ListArtistAlbums.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\ListArtistAlbums.cshtml",
+              "RelativeToolTip": "MVC_MusicShop\\Views\\Home\\ListArtistAlbums.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T21:21:08.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtistAlbumViewModel.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\ViewModels\\ArtistAlbumViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\ViewModels\\ArtistAlbumViewModel.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\ViewModels\\ArtistAlbumViewModel.cs",
+              "RelativeToolTip": "MVC_MusicShop\\ViewModels\\ArtistAlbumViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:17:40.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Views\\Home\\List.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "MVC_MusicShop\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T21:03:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_MusicShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwFIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:35:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Models\\Album.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Models\\Album.cs",
+              "RelativeToolTip": "MVC_MusicShop\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:58:43.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Models\\Genre.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Models\\Genre.cs",
+              "RelativeToolTip": "MVC_MusicShop\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:58:06.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Models\\Artist.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Models\\Artist.cs",
+              "RelativeToolTip": "MVC_MusicShop\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:57:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVC_MusicShop\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T09:35:14.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MVC_MusicShop\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVC_MusicShop\\MVC_MusicShop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MVC_MusicShop\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T09:35:13.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

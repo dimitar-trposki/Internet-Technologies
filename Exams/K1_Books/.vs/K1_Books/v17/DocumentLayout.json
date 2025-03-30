@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K1_Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63211CC8-1908-4917-B5A6-7C6D6C46AF93}|K1_Books\\K1_Books.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K1_Books\\k1_books\\booksite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63211CC8-1908-4917-B5A6-7C6D6C46AF93}|K1_Books\\K1_Books.csproj|solutionrelative:k1_books\\booksite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63211CC8-1908-4917-B5A6-7C6D6C46AF93}|K1_Books\\K1_Books.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\k1_books\\k1_books\\booksite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63211CC8-1908-4917-B5A6-7C6D6C46AF93}|K1_Books\\K1_Books.csproj|solutionrelative:k1_books\\booksite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookSite.aspx.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K1_Books\\K1_Books\\BookSite.aspx.cs",
+              "RelativeDocumentMoniker": "K1_Books\\BookSite.aspx.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K1_Books\\K1_Books\\BookSite.aspx.cs",
+              "RelativeToolTip": "K1_Books\\BookSite.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:33:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookSite.aspx",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K1_Books\\K1_Books\\BookSite.aspx",
+              "RelativeDocumentMoniker": "K1_Books\\BookSite.aspx",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K1_Books\\K1_Books\\BookSite.aspx",
+              "RelativeToolTip": "K1_Books\\BookSite.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T00:24:54.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿@model LV3_Remastered.Models.UserRole
+@{
+    ViewBag.Title = "AddUserToRole";
+}
+
+<h2>Add user to role</h2>
+
+@using (Html.BeginForm("AddUserToRole", "Account"))
+{
+    <div class="form-group">
+        @Html.Label("Email")
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+
+        @Html.Label("Roles")
+        @Html.DropDownListFor(m => m.SelectedRole, new SelectList(Model.Roles), new { @class = "form-control" })
+
+        <button class="btn btn-primary" type="submit">Add</button>
+    </div>
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K2_CinemaVeles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87001A0D-F08B-447A-B058-E1714A51A6FF}|K2_CinemaVeles\\K2_CinemaVeles.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\k2_cinemaveles\\k2_cinemaveles\\cinemasite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87001A0D-F08B-447A-B058-E1714A51A6FF}|K2_CinemaVeles\\K2_CinemaVeles.csproj|solutionrelative:k2_cinemaveles\\cinemasite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87001A0D-F08B-447A-B058-E1714A51A6FF}|K2_CinemaVeles\\K2_CinemaVeles.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K2_CinemaVeles\\k2_cinemaveles\\cinemasite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{87001A0D-F08B-447A-B058-E1714A51A6FF}|K2_CinemaVeles\\K2_CinemaVeles.csproj|solutionrelative:k2_cinemaveles\\cinemasite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CinemaSite.aspx.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K2_CinemaVeles\\K2_CinemaVeles\\CinemaSite.aspx.cs",
+              "RelativeDocumentMoniker": "K2_CinemaVeles\\CinemaSite.aspx.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K2_CinemaVeles\\K2_CinemaVeles\\CinemaSite.aspx.cs",
+              "RelativeToolTip": "K2_CinemaVeles\\CinemaSite.aspx.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:19:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaSite.aspx",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K2_CinemaVeles\\K2_CinemaVeles\\CinemaSite.aspx",
+              "RelativeDocumentMoniker": "K2_CinemaVeles\\CinemaSite.aspx",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\K2_CinemaVeles\\K2_CinemaVeles\\CinemaSite.aspx",
+              "RelativeToolTip": "K2_CinemaVeles\\CinemaSite.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T21:38:24.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

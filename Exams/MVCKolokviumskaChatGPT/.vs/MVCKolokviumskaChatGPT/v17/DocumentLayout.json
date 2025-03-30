@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\mvckolokviumskachatgpt\\mvckolokviumskachatgpt\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\mvckolokviumskachatgpt\\mvckolokviumskachatgpt\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\mvckolokviumskachatgpt\\mvckolokviumskachatgpt\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\mvckolokviumskachatgpt\\mvckolokviumskachatgpt\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\visualapps\\mvckolokviumskachatgpt\\mvckolokviumskachatgpt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\mvckolokviumskachatgpt\\views\\courses\\addstudenttocourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD64B22-9D00-4EEC-A5F9-5D727E4AF189}|MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT.csproj|solutionrelative:mvckolokviumskachatgpt\\views\\courses\\addstudenttocourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:50:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T12:43:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Models\\Teacher.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Models\\Teacher.cs",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:33:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Models\\Student.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Models\\Student.cs",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:32:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:22:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:22:33.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Students\\Details.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:22:31.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:20:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:20:49.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:20:35.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Courses\\Delete.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Courses\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:20:23.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:20:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddStudentToCourse.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\AddStudentToCourse.cshtml",
+              "RelativeDocumentMoniker": "MVCKolokviumskaChatGPT\\Views\\Courses\\AddStudentToCourse.cshtml",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438\\VisualApps\\MVCKolokviumskaChatGPT\\MVCKolokviumskaChatGPT\\Views\\Courses\\AddStudentToCourse.cshtml",
+              "RelativeToolTip": "MVCKolokviumskaChatGPT\\Views\\Courses\\AddStudentToCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:20:06.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

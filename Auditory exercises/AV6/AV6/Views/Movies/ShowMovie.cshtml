@@ -1,0 +1,24 @@
+﻿@model AV6.Models.MovieRentals
+
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Movie.Title</h2>
+<h5>Rating: @Model.Movie.Rating</h5>
+<img src="@Model.Movie.ImageURL" />
+
+<h3>Clients:</h3>
+<ul>
+    @{
+        int i = 0;
+        foreach (var client in Model.Clients)
+        {
+            <li>
+                <a href="/Movies/ShowClient/@i">@client.Name, @client.MemberCard</a>
+            </li>
+            i++;
+        }
+    }
+</ul>

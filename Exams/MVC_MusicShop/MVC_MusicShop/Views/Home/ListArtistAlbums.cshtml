@@ -1,0 +1,18 @@
+﻿@using MVC_MusicShop.Models
+@model MVC_MusicStore.ViewModels.ArtistAlbumViewModel
+
+@{
+    ViewBag.Title = "ListArtistAlbums";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ListArtistAlbums</h2>
+
+<h3>@Model.Artist.Name</h3>
+
+<ul>
+    @foreach (Album album in Model.Albums)
+    {
+        <li>@album.Title</li>
+    }
+</ul>

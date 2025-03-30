@@ -1,0 +1,58 @@
+﻿@model LV3.Models.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Doctor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Hospital")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hospital.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hospital.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hospital.Address)
+        </dd>
+    </dl>
+</div>
+
+<h4>
+    Patients:
+</h4>
+<div>
+    <ul>
+        @foreach (var patient in Model.Patients)
+        {
+            <li>
+                <a href="/Patients/Details/@patient.Id">@patient.Name</a>
+            </li>
+        }
+    </ul>
+</div>
+
+@Html.ActionLink("Add new patient", "InsertNewPatient", new { id = Model.Id })
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

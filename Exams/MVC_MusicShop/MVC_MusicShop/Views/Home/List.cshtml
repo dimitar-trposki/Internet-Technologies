@@ -1,0 +1,26 @@
+﻿@using MVC_MusicShop.Models
+@model IEnumerable<Album>
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of albums</h2>
+
+@foreach (Album album in Model)
+{
+    @album.Title;
+    <br />
+}
+
+@*@foreach (Album album in ViewBag.Albums as IEnumerable<Album>)
+    {
+        <li>@album.Title;</li>
+    }*@
+
+@*@foreach (dynamic album in ViewBag.Albums)
+    {
+        @album.Title;
+        <br />
+    }*@
