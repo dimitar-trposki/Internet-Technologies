@@ -1,0 +1,103 @@
+﻿@{
+    ViewBag.Title = "Premier League";
+}
+
+<div class="container mt-3">
+    <!-- Adjusted margin-top for the container -->
+    <h2 class="text-center mb-4 font-weight-bold">Premier League</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-4 mb-4">
+            <div class="card league-card h-100">
+                <a href="@Url.Action("PremierLeagueNews", "Sports")">
+                    <img class="card-img-top" src="~/Content/Images/newsN.jpg" alt="News">
+                    <div class="card-body d-flex flex-column justify-content-between" style="background-color: #003366;">
+                        <h5 class="card-title font-weight-bold text-white">News</h5>
+                        <p class="description-short text-white">Latest Premier League news updates.</p>
+                        <p class="description-full" style="color: white;">Stay updated with the latest news from the Premier League.</p>
+                        <a href="@Url.Action("PremierLeagueNews", "Sports")" class="btn btn-primary mt-2">View News</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card league-card h-100">
+                <a href="@Url.Action("PremierLeagueGames", "Sports")">
+                    <img class="card-img-top" src="~/Content/Images/gamesS.jpg" alt="Games">
+                    <div class="card-body d-flex flex-column justify-content-between" style="background-color: #003366;">
+                        <h5 class="card-title font-weight-bold text-white">Games</h5>
+                        <p class="description-short text-white">Upcoming Premier League games schedule.</p>
+                        <p class="description-full" style="color: white;">View the schedule for all upcoming Premier League games.</p>
+                        <a href="@Url.Action("PremierLeagueGames", "Sports")" class="btn btn-primary mt-2">View Games</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card league-card h-100">
+                <a href="@Url.Action("PremierLeagueTable", "Sports")">
+                    <img class="card-img-top" src="~/Content/Images/tableN.jpg" alt="Table">
+                    <div class="card-body d-flex flex-column justify-content-between" style="background-color: #003366;">
+                        <h5 class="card-title font-weight-bold text-white">Team Rankings</h5>
+                        <p class="description-short text-white">Current Premier League standings.</p>
+                        <p class="description-full" style="color: white;">Check out the current standings in the Premier League.</p>
+                        <a href="@Url.Action("PremierLeagueTable", "Sports")" class="btn btn-primary mt-2">View Team Rankings</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Light background */
+        color: #333; /* Dark text */
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        margin-top: 10px; /* Reduced top margin to match other pages */
+        margin-bottom: 20px;
+        font-size: 2rem; /* Larger font size */
+        color: #0056b3; /* Header color */
+        font-weight: bold; /* Making the heading bold */
+    }
+
+    .league-card {
+        height: 100%;
+        overflow: hidden;
+        transition: transform 0.3s;
+        border-radius: 15px; /* Rounded corners */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+        .league-card:hover {
+            transform: scale(1.05);
+        }
+
+    .description-short {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .description-full {
+        display: none;
+    }
+
+    .league-card a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .league-card:hover .description-short {
+        display: none;
+    }
+
+    .league-card:hover .description-full {
+        display: block;
+    }
+</style>

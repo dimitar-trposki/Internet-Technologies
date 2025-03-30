@@ -1,0 +1,131 @@
+﻿@{
+    ViewBag.Title = "Basketball";
+}
+
+<div class="container mt-3">
+    <!-- Adjusted margin-top for the container -->
+    <h2 class="text-center mb-4" style="font-weight: bold;">Select a League</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-4 mb-4">
+            <div class="card league-card h-100">
+                <a href="@Url.Action("NBA", "Sports")">
+                    <div class="card-img-container">
+                        <img class="card-img-top" src="@ViewBag.NBALogoUrl" alt="NBA">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@ViewBag.NBAName</h5>
+                        <p class="description-short">Latest news, games, and tables from @ViewBag.NBAName</p>
+                        <p class="description-full">@ViewBag.NBADescription</p>
+                        <a href="@Url.Action("NBA", "Sports")" class="btn btn-primary">View</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card league-card h-100">
+                <a href="@Url.Action("EuroLeague", "Sports")">
+                    <div class="card-img-container">
+                        <img class="card-img-top" src="@ViewBag.EuroLeagueLogoUrl" alt="EuroLeague">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@ViewBag.EuroLeagueName</h5>
+                        <p class="description-short">Latest news, games, and tables from @ViewBag.EuroLeagueName.</p>
+                        <p class="description-full">@ViewBag.EuroLeagueDescription</p>
+                        <a href="@Url.Action("EuroLeague", "Sports")" class="btn btn-primary">View</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f4f4f4; /* Same background as other views */
+    }
+
+    h2 {
+        margin-top: 10px; /* Reduced top margin to match American Football */
+        margin-bottom: 20px;
+        font-size: 2rem; /* Larger font size */
+        color: #0056b3; /* Header color */
+        font-weight: bold; /* Making the heading bold */
+    }
+
+    .league-card {
+        height: 100%;
+        overflow: hidden;
+        transition: transform 0.3s;
+        background-color: #003366; /* Dark blue background */
+        color: white; /* White text color */
+        border: 1px solid #004494; /* Slightly darker border */
+        border-radius: 15px; /* More rounded corners */
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+    .card-img-container {
+        height: 100px; /* Reduced height for smaller resolution */
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    .card-img-top {
+        max-width: 90%; /* Limit the width to keep the image smaller */
+        max-height: 90%; /* Limit the height to keep the image smaller */
+        object-fit: contain; /* Ensure the whole logo is visible without cropping */
+    }
+
+    .league-card .card-body {
+        position: relative;
+    }
+
+    .description-short {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .description-full {
+        display: none;
+    }
+
+    .league-card a {
+        text-decoration: none;
+        color: inherit; /* Inherit the white text color */
+    }
+
+    .league-card:hover {
+        transform: scale(1.02);
+        /* Removed background color change on hover */
+    }
+
+        .league-card:hover .description-short {
+            display: none;
+        }
+
+        .league-card:hover .description-full {
+            display: block;
+        }
+
+    /* Button styles */
+    .btn-primary {
+        background-color: #0056b3; /* Blue button color */
+        border: none; /* Remove border */
+        color: white; /* Button text color */
+    }
+
+        .btn-primary:hover {
+            background-color: #004494; /* Darker shade on hover */
+        }
+
+    /* Card title and description colors */
+    .league-card .card-title,
+    .league-card p {
+        color: white; /* Set text color to white */
+    }
+</style>

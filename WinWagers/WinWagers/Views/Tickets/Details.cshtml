@@ -1,0 +1,116 @@
+﻿@model WinWagers.Models.Ticket
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<style>
+    body {
+        background-color: #ffffff; /* White background for the site */
+        color: #343a40; /* Dark text color */
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        color: #0056b3; /* Header color */
+        font-weight: bold; /* Bold header */
+        text-align: center; /* Centered header */
+        margin-bottom: 30px; /* Space below header */
+    }
+
+    .ticket-details {
+        max-width: 600px; /* Set a max width for the details */
+        margin: auto; /* Center the details */
+        padding: 20px; /* Padding around the details */
+        background-color: #ffcc00; /* Yellow background for ticket details */
+        border-radius: 15px; /* Rounded corners */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+    dl.dl-horizontal {
+        display: flex;
+        flex-direction: column; /* Change to vertical stacking */
+        margin-bottom: 20px;
+    }
+
+    dt {
+        font-weight: bold; /* Bold labels */
+        margin-bottom: 5px; /* Space below labels */
+    }
+
+    dd {
+        margin-bottom: 15px; /* Space below values */
+        font-size: 16px; /* Slightly larger font for readability */
+        color: #333; /* Darker text color for better contrast */
+    }
+
+    .euro-sign {
+        font-weight: bold; /* Bold Euro sign */
+        margin-right: 5px; /* Space between Euro sign and value */
+    }
+
+    .action-links {
+        text-align: center; /* Center the action links */
+        margin-top: 20px; /* Space above action links */
+    }
+
+    .btn-primary {
+        background-color: #007bff; /* Standard blue color */
+        border-color: #007bff; /* Standard blue border color */
+        transition: background-color 0.3s; /* Smooth transition on hover */
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+            border-color: #004085; /* Darker border on hover */
+        }
+
+    .btn-default {
+        background-color: #e0e0e0; /* Light gray for default buttons */
+        color: #333; /* Dark text for readability */
+    }
+
+        .btn-default:hover {
+            background-color: #d5d5d5; /* Darker gray on hover */
+        }
+</style>
+
+<h2>Details</h2>
+
+<div class="ticket-details">
+    <h4>Ticket ID: @Model.Id</h4> <!-- Displaying the Ticket ID -->
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Stake)
+        </dt>
+        <dd>
+            <span class="euro-sign">€</span>@Html.DisplayFor(model => model.Stake)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Payout)
+        </dt>
+        <dd>
+            <span class="euro-sign">€</span>@Html.DisplayFor(model => model.Payout)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DateTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+    </dl>
+</div>
+
+<div class="action-links">
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+</div>

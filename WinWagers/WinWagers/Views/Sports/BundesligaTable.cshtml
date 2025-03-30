@@ -1,0 +1,114 @@
+﻿@model IEnumerable<WinWagers.Models.Team>
+
+@{
+    ViewBag.Title = "Team Rankings";
+}
+
+<h2 class="text-center font-weight-bold">Team Rankings</h2>
+
+<table id="table" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Team Logo</th>
+            <th>Team Name</th>
+            <th>Games Played</th>
+            <th>Wins</th>
+            <th>Losses</th>
+            <th>Draws</th>
+            <th>Points</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @{ int Rank = 1; }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Rank</td>
+                <td>
+                    <img src="@item.LogoUrl" alt="Logo of @item.Name" style="width: 50px; height: auto;" />
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@item.PlayedGames()</td>
+                <td>@Html.DisplayFor(modelItem => item.Wins)</td>
+                <td>@Html.DisplayFor(modelItem => item.Losses)</td>
+                <td>@Html.DisplayFor(modelItem => item.Draws)</td>
+                <td>@item.PointsSoccer()</td>
+            </tr>
+            Rank++;
+        }
+    </tbody>
+</table>
+
+@*@section scripts {
+    <script>
+        $(document).ready(function () {
+            $("#table").DataTable({
+                language: {
+                    "paginate": {
+                        "previous": "<button class='btn btn-primary'>Prev</button>",
+                        "next": "<button class='btn btn-primary'>Next</button>"
+                    }
+                }
+            });
+        });
+    </script>
+}*@
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Light background */
+        color: #333; /* Dark text */
+        font-family: Arial, sans-serif;
+    }
+
+    h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 2rem;
+        color: #0056b3; /* Header color */
+        font-weight: bold; /* Making the heading bold */
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+    }
+
+    th {
+        background-color: #0056b3; /* Header background color */
+        color: black; /* Header text color */
+        padding: 10px;
+        text-align: left;
+        font-weight: bold; /* Bold column headers */
+    }
+
+    td {
+        padding: 10px;
+        border: 1px solid #ddd; /* Light border */
+        text-align: left;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2; /* Zebra striping */
+    }
+
+    img {
+        border-radius: 5px; /* Rounded corners for images */
+    }
+
+    /* Additional styles to enhance visibility */
+    th {
+        font-size: 16px; /* Make font size larger for headers */
+    }
+
+    /* Style for DataTable pagination buttons */
+    .dataTables_wrapper .dataTables_paginate .btn {
+        margin: 0 5px; /* Space between buttons */
+        padding: 5px 10px; /* Padding for buttons */
+        font-size: 14px; /* Font size for button text */
+        border-radius: 4px; /* Rounded corners for buttons */
+    }
+</style>

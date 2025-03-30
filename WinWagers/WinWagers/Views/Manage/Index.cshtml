@@ -1,0 +1,117 @@
+﻿@model WinWagers.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Light background color for the page */
+        font-family: Arial, sans-serif; /* Clean font style */
+        color: #343a40; /* Dark text color for better readability */
+    }
+
+    main {
+        max-width: 600px; /* Set a max width for the main container */
+        margin: 50px auto; /* Center the main container with margin */
+        padding: 20px; /* Padding around the main container */
+        background-color: #ffcc00; /* Yellow background for the form */
+        border-radius: 10px; /* Rounded corners */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    }
+
+    h2 {
+        color: #0056b3; /* Color for the title */
+        text-align: center; /* Center the title */
+        margin-bottom: 20px; /* Space below title */
+    }
+
+    .text-success {
+        text-align: center; /* Center success message */
+        font-weight: bold; /* Make success message bold */
+    }
+
+    h4 {
+        margin-top: 20px; /* Space above section headers */
+        color: #343a40; /* Darker color for section headers */
+    }
+
+    hr {
+        margin: 20px 0; /* Space above and below horizontal rule */
+    }
+
+    dl {
+        margin: 0; /* Remove default margin */
+    }
+
+    dt {
+        font-weight: bold; /* Make definition terms bold */
+    }
+
+    dd {
+        margin-bottom: 10px; /* Space below definition descriptions */
+        display: flex; /* Use flexbox for alignment */
+        align-items: center; /* Center items vertically */
+    }
+
+    .action-link {
+        margin-left: 10px; /* Space between text and link */
+        padding: 8px 12px; /* Padding for better clickable area */
+        border: 1px solid #0056b3; /* Border to match theme */
+        border-radius: 5px; /* Rounded corners for the link */
+        background-color: #ffffff; /* White background */
+        color: #0056b3; /* Link color */
+        text-decoration: none; /* Remove underline */
+        transition: background-color 0.3s, color 0.3s; /* Transition for hover effect */
+    }
+
+        .action-link:hover {
+            background-color: #0056b3; /* Change background on hover */
+            color: white; /* Change text color on hover */
+        }
+
+        .action-link:focus {
+            outline: none; /* Remove outline on focus */
+            box-shadow: 0 0 5px rgba(0, 86, 179, 0.5); /* Add shadow for accessibility */
+        }
+</style>
+
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title</h2>
+
+    <p class="text-success">@ViewBag.StatusMessage</p>
+    <div>
+        <h4>Change your account settings</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>Password:</dt>
+            <dd>
+                @if (Model.HasPassword)
+                {
+                    <span>Your password is set.</span>
+                    <a href="@Url.Action("ChangePassword")" class="action-link">Change your password</a>
+                }
+                else
+                {
+                    <span>No password set.</span>
+                    <a href="@Url.Action("SetPassword")" class="action-link">Create a password</a>
+                }
+            </dd>
+            <dt>External Logins:</dt>
+            <dd>
+                <span>@Model.Logins.Count external logins connected.</span>
+                <a href="@Url.Action("ManageLogins")" class="action-link">Manage external logins</a>
+            </dd>
+            <dt>Two-Factor Authentication:</dt>
+            <dd>
+                <p>
+                    There are no two-factor authentication providers configured. See <a href="https://go.microsoft.com/fwlink/?LinkId=403804">this article</a>
+                    for details on setting up this ASP.NET application to support two-factor authentication.
+                </p>
+            </dd>
+        </dl>
+    </div>
+</main>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

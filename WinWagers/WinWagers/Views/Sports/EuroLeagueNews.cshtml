@@ -1,0 +1,65 @@
+﻿@model List<WinWagers.Models.RssNewsItem>
+
+@{
+    ViewBag.Title = "EuroLeague News";
+}
+
+<style>
+    /* Scoped styles for EuroLeague news page */
+    body {
+        padding: 20px; /* Adjust padding for this specific page */
+        background-color: #f4f4f4; /* Keep the background */
+    }
+
+    .news-container {
+        background-color: #ffcc00; /* Optional: set a background color if desired */
+        padding: 20px; /* Optional: add padding around the content */
+        border-radius: 5px; /* Optional: add rounded corners */
+        margin-top: 10px; /* Thinner gap at the top */
+    }
+
+    .news-title {
+        text-align: center;
+        color: #0056b3;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+
+    .news-card {
+        margin-bottom: 20px; /* Spacing between cards */
+        border-radius: 5px;
+        transition: box-shadow 0.3s ease;
+    }
+
+        .news-card:hover {
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .news-card .card-title {
+            color: #0056b3; /* Title color */
+        }
+
+        .news-card .card-text small {
+            color: #666; /* Small text color for publication date */
+        }
+</style>
+
+<div class="news-container">
+    <h2 class="news-title">EuroLeague Latest News</h2>
+    <p>If there are no available news articles on this site, we kindly invite you to visit <a href="https://www.euroleaguebasketball.net/euroleague/news/" target="_blank">ESPN.com</a> for more news.</p>
+    <div class="row">
+        @foreach (var newsItem in Model)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card news-card">
+                    <div class="card-body">
+                        <h5 class="card-title">@newsItem.Title</h5>
+                        <p class="card-text">@newsItem.Description</p>
+                        <a href="@newsItem.Link" target="_blank" class="btn btn-primary">Read more</a>
+                        <p class="card-text"><small class="text-muted">Published on @newsItem.PubDate</small></p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
